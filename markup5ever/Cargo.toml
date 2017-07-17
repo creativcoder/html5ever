@@ -18,7 +18,7 @@ unstable = []
 [dependencies]
 string_cache = "0.6"
 phf = "0.7"
-tendril = "0.3.1"
+tendril = "0.4.0"
 heapsize = { version = ">= 0.3, < 0.5", optional = true }
 heapsize_derive = { version = "0.1", optional = true }
 
