@@ -828,6 +828,7 @@ specularExponent
 speed
 spreadMethod
 src
+srcset
 srcdoc
 standby
 start
